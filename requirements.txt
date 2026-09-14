@@ -3,3 +3,4 @@ openai
 PyMuPDF
 beautifulsoup4
 google-genai
+requests
