@@ -4,3 +4,6 @@ PyMuPDF
 beautifulsoup4
 google-genai
 requests
+chromadb
+pysqlite3-binary
+protobuf==3.20
